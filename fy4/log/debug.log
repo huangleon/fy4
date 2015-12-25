@@ -1,0 +1,547 @@
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect: ÓÉÓÚÄ¿±ê»úÆ÷»ı¼«¾Ü¾ø£¬ÎŞ·¨Á¬½Ó¡£
+
+
+Loading preloaded files ...
+System Error: socket_write: sendto: ÒÔÒ»ÖÖ·ÃÎÊÈ¨ÏŞ²»ÔÊĞíµÄ·½Ê½×öÁËÒ»¸ö·ÃÎÊÌ×½Ó×ÖµÄ³¢ÊÔ¡£
+
+System Error: socket_write: sendto: ÒÔÒ»ÖÖ·ÃÎÊÈ¨ÏŞ²»ÔÊĞíµÄ·½Ê½×öÁËÒ»¸ö·ÃÎÊÌ×½Ó×ÖµÄ³¢ÊÔ¡£
+
+Initializations complete.
+
+Accepting connections on port 6666.
+System Error: socket_write: sendto: ÒÔÒ»ÖÖ·ÃÎÊÈ¨ÏŞ²»ÔÊĞíµÄ·½Ê½×öÁËÒ»¸ö·ÃÎÊÌ×½Ó×ÖµÄ³¢ÊÔ¡£
+
+System Error: socket_write: sendto: ÒÔÒ»ÖÖ·ÃÎÊÈ¨ÏŞ²»ÔÊĞíµÄ·½Ê½×öÁËÒ»¸ö·ÃÎÊÌ×½Ó×ÖµÄ³¢ÊÔ¡£
+
+System Error: socket_write: sendto: ÒÔÒ»ÖÖ·ÃÎÊÈ¨ÏŞ²»ÔÊĞíµÄ·½Ê½×öÁËÒ»¸ö·ÃÎÊÌ×½Ó×ÖµÄ³¢ÊÔ¡£
+
+System Error: socket_write: sendto: ÒÔÒ»ÖÖ·ÃÎÊÈ¨ÏŞ²»ÔÊĞíµÄ·½Ê½×öÁËÒ»¸ö·ÃÎÊÌ×½Ó×ÖµÄ³¢ÊÔ¡£
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+System Error: socket_write: sendto: ÒÔÒ»ÖÖ·ÃÎÊÈ¨ÏŞ²»ÔÊĞíµÄ·½Ê½×öÁËÒ»¸ö·ÃÎÊÌ×½Ó×ÖµÄ³¢ÊÔ¡£
+
+System Error: socket_write: sendto: ÒÔÒ»ÖÖ·ÃÎÊÈ¨ÏŞ²»ÔÊĞíµÄ·½Ê½×öÁËÒ»¸ö·ÃÎÊÌ×½Ó×ÖµÄ³¢ÊÔ¡£
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 444 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 517 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 444 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*Undefined function: do_flee
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 464 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 48 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ chat() µÚ 139 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ do_fight() µÚ 512 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ go_fight() µÚ 464 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+System Error: socket_write: sendto: ÒÔÒ»ÖÖ·ÃÎÊÈ¨ÏŞ²»ÔÊĞíµÄ·½Ê½×öÁËÒ»¸ö·ÃÎÊÌ×½Ó×ÖµÄ³¢ÊÔ¡£
+
+System Error: socket_write: sendto: ÒÔÒ»ÖÖ·ÃÎÊÈ¨ÏŞ²»ÔÊĞíµÄ·½Ê½×öÁËÒ»¸ö·ÃÎÊÌ×½Ó×ÖµÄ³¢ÊÔ¡£
+
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
+
+Ö´ĞĞÊ±¶Î´íÎó£º*call_other() couldn't find object
+
+³ÌÊ½£ºstd/char/questnpc.c µÚ 195 ĞĞ
+Îï¼ş: /questnpc/xuexiaoren#450
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ heart_beat() µÚ 29 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+ºô½ĞÀ´×Ô£ºstd/char/questnpc.c µÄ die() µÚ 195 ĞĞ£¬Îï¼ş£º questnpc/xuexiaoren#450 ("[1;37mÑ¦Ğ¦ÈË[2;37;0m")
+Heart beat in questnpc/xuexiaoren#450 turned off.
