@@ -45,8 +45,12 @@ string short()
 string long()
 {
         mapping *notes;
-        int i, last_time_read;
-        string msg, myid; 
+
+        // comment out by HL to avoid warning
+        // int i, last_time_read;
+        // string msg, myid;
+
+        string msg; 
         notes = query("notes");
         msg = query("long");
         msg = msg + "留言版的使用方法请见 help board。\n";

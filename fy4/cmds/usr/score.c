@@ -20,7 +20,9 @@ int main(object me, string arg)
 {
         object ob;
         mapping my;
-        string line, str, skill_type, parry_type;
+        // comment out by HL to avoid warning.
+        // string line, str, skill_type, parry_type;
+        string line;
         object weapon;
         int attack_points, dodge_points, parry_points; 
         seteuid(getuid(me)); 

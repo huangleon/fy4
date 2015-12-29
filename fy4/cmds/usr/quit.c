@@ -16,7 +16,8 @@ void create()  {
 int main(object me, string arg) {
         int i;
         object *inv, link_ob;
-        int stage; 
+        // comment by HL to avoid warning.
+        // int stage; 
         if(!me->query_temp("netdead")) {
                 if(me->is_busy()) {
                         return notify_fail("你上一个动作还没有完成,不能退出。\n");

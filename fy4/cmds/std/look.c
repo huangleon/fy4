@@ -121,6 +121,10 @@ int look_room(object me, object env) {
    int i;
         object *inv;
         mapping exits;
+
+        // comment out by HL to avoid warning.
+        //string roomdesc, str, *dirs; 
+
         string roomdesc, str, *dirs; 
         if(!env) {
                 write("你的四周灰蒙蒙地一片，什麽也没有。\n");
@@ -169,7 +173,10 @@ int look_room(object me, object env) {
 // give out item description.
 int look_item(object me, object obj) {
         mixed *inv;
-        string objdesc, prep; 
+
+        // comment out by HL to avoid warning.
+        // string objdesc, prep; 
+        string prep; 
         write(obj->long());
         inv = all_inventory(obj);
         if(!obj->is_closed() && sizeof(inv)) {
@@ -279,7 +286,10 @@ string getper(object me, object obj) {
 } 
 // use skill_power function to calculate the diff between 2 players.
 string gettof(object me, object ob) {
-        int melevel, oblevel;
+    // comment out by HL to avoid warning.
+//        int melevel, oblevel;
+        int oblevel;
+
 //      melevel = COMBAT_D->skill_power(me, SKILL_USAGE_ATTACK) +
 //                      COMBAT_D->skill_power(me, SKILL_USAGE_PARRY) + 
 //                      COMBAT_D->skill_power(me, SKILL_USAGE_DODGE);
@@ -291,7 +301,9 @@ string gettof(object me, object ob) {
 } 
 // give out character description.
 int look_living(object me, object obj) {
-        string str, limb_status, pro;
+    // comment out by HL to avoid warning
+//        string str, limb_status, pro;
+        string str, pro;
         mixed *inv;
         mapping my_fam, fam; 
         if(me!=obj) {
@@ -388,9 +400,13 @@ int look_living(object me, object obj) {
 } 
 // give out corpse description.
 int look_corpse(object me, object obj) {
-        string str, limb_status, pro;
+    // comment out by HL to avoid warning.
+        // string str, limb_status, pro;
+        string str, pro;
         mixed *inv;
-        mapping my_fam, fam; 
+
+        // comment out by HL to avoid warning
+        // mapping my_fam, fam; 
         if(me!=obj) {
                 message("vision", me->name() + "正盯著你看，不知道打些什麽主意。\n", obj);
         }

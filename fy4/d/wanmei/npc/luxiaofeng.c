@@ -82,7 +82,8 @@ void lose_enemy(object winner)
 int do_killing(string arg)
 {
     object player, victim;
-    string id,id_class;
+    // comment out by HL to avoid warning.
+    // string id,id_class;
     player = this_player();
     if(!arg || arg == "") return 0;
     victim = present(arg, environment(player));
@@ -101,7 +102,8 @@ int do_killing(string arg)
 } 
 int accept_fight(object me)
 {
-        object skinmask;
+        // comment out by HL to avoid warning.
+        // object skinmask;
         object who;
         
         if (this_object()->is_fighting() || this_object()->is_busy())

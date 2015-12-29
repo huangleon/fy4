@@ -137,7 +137,8 @@ int do_killing(string arg)
 {
     object player, victim;
     string id;
-    int sen; 
+    // comment out by HL to avoid warning.
+    // int sen; 
     player = this_player();
     if(!arg || arg == "") return 0;
     victim = present(arg, environment(player));
@@ -201,7 +202,9 @@ int do_qiecuo(string arg)
         return notify_fail("楚留香正在忙着呢，没空和你砌磋！\n"); 
     if((int)me->query("marks/failed_chu") + 86400 > time())
     {
-        say("\楚留香说道：你不久前才输给我！过两天再比吧！\n");
+        // fix the escape warning.
+        // say("\楚留香说道：你不久前才输给我！过两天再比吧！\n");
+        say("\n楚留香说道：你不久前才输给我！过两天再比吧！\n");
         return 1;
     }
     delete_temp("last_damage_from");

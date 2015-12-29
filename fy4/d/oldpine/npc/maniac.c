@@ -2,7 +2,8 @@
 inherit NPC; 
 void create()
 {
-        object ob; 
+        // comment out by HL to avoid warning.
+        // object ob; 
         set_name("åÐÒ£ºî", ({ "xiaoyao", "xiaoyao hou", "hou" }) );
         set("gender", "ÄÐÐÔ");
         set("age", 67);

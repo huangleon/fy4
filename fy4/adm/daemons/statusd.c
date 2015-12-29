@@ -12,7 +12,8 @@ mapping *read_text(string file);
 mapping *top_lst;
 mapping *bot_lst; 
 void create() { 
-        string file;
+        // comment out by HL to avoid warning.
+        // string file;
         seteuid(getuid()); 
         top_lst = sort_array(read_text(TOP_LST),"sort_user",this_object());
         bot_lst = sort_array(read_text(BOT_LST),"sort_user2",this_object());
@@ -122,10 +123,14 @@ mapping read_text2(string file)
 }  
 mapping *read_text(string file)
 {
-        string *line, *field;
+        // comment out by HL to avoid warning.
+        // string *line, *field;
+        string *line;
         mapping *data;
         string lines;
-        int i,j;
+        // comment out by HL to avoid warning.
+        // int i,j;
+        int i;
         data = ({});
         lines= read_file(file);
         if(lines){

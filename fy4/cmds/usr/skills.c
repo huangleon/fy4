@@ -40,10 +40,15 @@ string *knowledge_level_desc = ({
 string skill_level(string, int); 
 int main(object me, string arg)
 {
-        object ob, *list, couple_ob;
+        // comment out by HL to avoid warning.
+        // object ob, *list, couple_ob;
+        object ob, couple_ob;
         mapping skl, lrn, map;
-        string *sname, *mapped,target,cardname,skill_name;
-        int i, marry_flag; 
+        // comment out by HL to avoid warning.
+        // string *sname, *mapped,target,cardname,skill_name;
+        string *sname, *mapped,target,skill_name;
+        // int i, marry_flag; 
+        int i;
         mapping learned_skill_points;
         int skill_level; 
         seteuid(getuid()); 

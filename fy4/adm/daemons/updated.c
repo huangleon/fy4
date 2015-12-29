@@ -9,7 +9,9 @@ void check_user(object ob)
 {
         mapping my;
         string user_class;
-        int tmp, dorm_force;
+        // comment out by HL to avoid warning
+        // int tmp, dorm_force;
+        int dorm_force;
       
         
 //      checkrace(ob);

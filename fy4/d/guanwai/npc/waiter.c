@@ -90,17 +90,17 @@ int do_rent(string arg)
         me->move(ob);
         chefu->go_now();
         
-        call_out("check_status",30,chefu);
+        call_out("check_rent_status",30,chefu);
         return 1;
 } 
-int check_status(object ob)
+int check_rent_status(object ob)
 {
         if (!ob)
         {
                 set("mark/rented",0);
         }else
         {
-                call_out("check_status",30,ob);
+                call_out("check_rent_status",30,ob);
         }
 } 
 void reset()
