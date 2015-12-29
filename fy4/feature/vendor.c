@@ -19,7 +19,9 @@ mapping holiday_list = ([
 int buy_object(object me, string what)
 {
         mapping goods;
-        string list, *name, *holidays;
+        // comment out by HL to avoid warning.
+        // string list, *name, *holidays;
+        string *name, *holidays;
         int i;
                 string current_time, current_holidayname;
                 mixed *local; 
@@ -47,7 +49,9 @@ int compelete_trade(object me, string what)
         string ob_file;
         object ob;
         mapping goods;
-        string list, *name, last = "";
+        // comment out by HL to avoid warning.
+        // string list, *name, last = "";
+        string *name, last = "";
         int i;
         if( !mapp(goods = query("vendor_goods")) ) return 0;
         name = keys(goods);

@@ -4,7 +4,8 @@ int clean_trash();
 int dest_trash();
 void create()
 {
-        int i,amun;
+        // comment out by HL to avoid warning.
+        // int i,amun;
         string *order = ({"张", "王", "李", "赵", "孙", "徐", "郑", "周", "吴",
 "蒋", "沈", "杨", "苗", "尹", "金", "魏", "陶" });
         string *orderr = ({"定国", "安邦", "抚民", "守疆", "平安",

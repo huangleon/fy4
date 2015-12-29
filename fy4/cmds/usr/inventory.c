@@ -3,7 +3,8 @@
 inherit F_CLEAN_UP; 
 int main(object me, string arg)
 {
-        int i;
+        // comment out by HL to avoid warning.
+        // int i;
         object *inv, ob; 
         if( wizardp(me) && arg ) {
                 ob = find_player(arg);
@@ -24,8 +25,9 @@ int main(object me, string arg)
         return 1;
 } 
 string inventory_desc(object obj) {
-        string str, desc;
-        object me, left, right; 
+        // comment out by HL to avoid warning.
+        //string str, desc;
+        //object me, left, right; 
         return sprintf("  %s%s", obj->query("equipped")? HIC "¡Ì" NOR: "  ",
                         obj->short());
 } 

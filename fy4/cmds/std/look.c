@@ -125,7 +125,7 @@ int look_room(object me, object env) {
         // comment out by HL to avoid warning.
         //string roomdesc, str, *dirs; 
 
-        string roomdesc, str, *dirs; 
+        string str, *dirs; 
         if(!env) {
                 write("你的四周灰蒙蒙地一片，什麽也没有。\n");
                 return 1;
