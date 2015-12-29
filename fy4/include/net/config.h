@@ -10,18 +10,7 @@
 #define MUDLIST_DNS  ({ "localhost", 6666}) 
 // The Backup DNS Server
 #define MUDLIST_BAK  ({ "localhost", 6666})
-#define LISTNODES ([ \
-    "zh_fy":    "202.96.132.73 6999", \
-    "cn_fy":     "211.154.46.41 6999", \
-    "us_fy":     "209.76.234.247 6999", \
-    "us1_fy":     "64.215.92.125 6999", \
-    "js1_fy":     "202.102.14.25 6999", \
-    "zj_fy":     "fy4.3322.org 6999", \
-    "sbaa_fy4":     "211.167.133.131 6999", \
-    "alon":     "218.79.124.39 6999", \
-    "fy4_soil&daxuzi":     "127.0.0.0 6670", \
-    "hz":     "127.0.0.1 3378", \
-])      
+#define LISTNODES ([ "zh_fy":    "202.96.132.73 6999", "cn_fy":     "211.154.46.41 6999", "us_fy":     "209.76.234.247 6999", "us1_fy":     "64.215.92.125 6999", "js1_fy":     "202.102.14.25 6999", "zj_fy":     "fy4.3322.org 6999", "sbaa_fy4":     "211.167.133.131 6999", "alon":     "218.79.124.39 6999", "fy4_soil&daxuzi":     "127.0.0.0 6670", "hz":     "127.0.0.1 3378", ])
 /* This is the default packet size of outgoing mail messages.  The ideal
  * number is 512, maximum would be about 900, since 1024 is the maximum
  * udp packet size.  Probably best kept at 512
