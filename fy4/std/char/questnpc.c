@@ -192,7 +192,7 @@ void die()
                         killer = this_object()->query_temp("last_damage_from");
             if(owner=killer->query("possessed"))    killer = owner;
             this_object()->set("killer",killer);
-            TASKNPC_D->quest_reward(killer,this_object());
+            //TASKNPC_D->quest_reward(killer,this_object());
         }
         switch (query("quality"))
         {
