@@ -58,7 +58,8 @@ void init()
 int accept_object(object who, object ob)
 {
         int  exp, pot, score, val;
-        string test;
+        // comment out by HL to avoid warning.
+        // string test;
         string quest;
 // Let's see if this player is one of us
         if((string)who->query("guild") != "Ььзк")
@@ -110,10 +111,12 @@ int give_quest(string arg)
 {
         string quest ;
         object me;
-        int j, combatexp, timep, lvl=0;
-        mixed *local;
+        // comment out by HL to avoid warning.
+        // int j, combatexp, timep, lvl=0;
+        int timep;
+        // mixed *local;
         string *npcs,*objs,file;
-        int  t;
+        // int  t;
         me = this_player();
 // Let's see if this player is one of us
         if((string)me->query("guild") != "Ььзк")

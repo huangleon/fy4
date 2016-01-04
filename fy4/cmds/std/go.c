@@ -3,7 +3,9 @@
 // This software can not be used, copied, or modified in any form without
 // the written permission from authors.
 // 
-#pragma optimize
+
+// comment out by HL to avoid warning.
+// #pragma optimize
 #include <ansi.h>
 #include <combat.h>
 inherit F_CLEAN_UP; 
@@ -53,7 +55,8 @@ int drop_things(object me) {
         return 0;
 } 
 int check_flee(object me, string arg)  {
-        mapping         my, your;
+    // comment out by HL to avoid warning.
+        // mapping         my, your;
         object  *enemy;
         int             fp, bp, i; 
         i = me->query("combat_exp");

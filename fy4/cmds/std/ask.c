@@ -14,7 +14,8 @@ int main(object me, string arg)
         string *chat_msg;
         object ob;
         int i;
-        mapping inquiry; 
+        // comment out by HL to avoid warning.
+        // mapping inquiry; 
         seteuid(getuid()); 
         if( !arg || sscanf(arg, "%s about %s", dest, topic)!=2 )
                 return notify_fail("ÄãÒªÎÊË­Ê²÷áÊÂ£¿\n"); 
