@@ -72,3 +72,9 @@ void remove_effect(int exp)
         this_object()->stop_busy();
         this_object()->set("combat_exp",exp);
 }    
+
+// add empty implementation to avoid compiling time error.
+int do_flee()
+{
+    return 0;
+}

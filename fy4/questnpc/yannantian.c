@@ -128,3 +128,9 @@ object offensive_target(object me)
         if( sz > 0 ) return enemy[random(sz)];
         else return 0;
 }       
+
+// add empty implementation to avoid compiling time error.
+int do_flee()
+{
+    return 0;
+}

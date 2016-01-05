@@ -55,3 +55,9 @@ int give_mail()
                 }
                 return 1;
 }    
+
+// add empty implementation to avoid compiling time error.
+int do_flee()
+{
+    return 0;
+}

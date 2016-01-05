@@ -61,3 +61,9 @@ object offensive_target(object me)
         else return 0;
 }  
 */     
+
+// add empty implementation to avoid compiling time error.
+int do_flee()
+{
+    return 0;
+}

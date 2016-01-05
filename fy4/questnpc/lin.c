@@ -67,5 +67,9 @@ do_fight()
         command("perform dodge.luoyeqiufeng");
     command("perform caidiekuangwu");
 } 
-        
-             
+// add empty implementation to avoid compiling time error.
+int do_flee()
+{
+    return 0;
+}
+

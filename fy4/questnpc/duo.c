@@ -56,4 +56,11 @@ void create()
         //carry_object(__DIR__"obj/xiuhuacloth")->wear();
                 //carry_object(__DIR__"obj/duopai");
                 //carry_object(__DIR__"obj/duomianju")->wear();
-} 
+}
+
+// add empty implementation to avoid compiling time error.
+int do_flee()
+{
+    return 0;
+}
+

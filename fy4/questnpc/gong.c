@@ -140,3 +140,9 @@ void crazy(int i,int exp)
                 call_out("crazy",1+random(1),i+1,exp);
         }
 }   
+
+// add empty implementation to avoid compiling time error.
+int do_flee()
+{
+    return 0;
+}

@@ -73,3 +73,9 @@ do_fight()
 } 
         
         */       
+
+// add empty implementation to avoid compiling time error.
+int do_flee()
+{
+    return 0;
+}

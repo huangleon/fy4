@@ -77,3 +77,9 @@ void obj_revive(object obj)
                 obj->stop_busy();
         } 
 }   
+
+// add empty implementation to avoid compiling time error.
+int do_flee()
+{
+    return 0;
+}

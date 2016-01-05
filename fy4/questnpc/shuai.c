@@ -55,3 +55,9 @@ void create()
         carry_object(__DIR__"obj/whitecloth")->wear();
         carry_object(__DIR__"obj/qiushui")->wield();
 }   
+
+// add empty implementation to avoid compiling time error.
+int do_flee()
+{
+    return 0;
+}

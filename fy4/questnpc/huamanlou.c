@@ -55,3 +55,9 @@ mixed hit_ob(object me, object victim, int damage_bonus)
         return HIR "$n只觉得一麻，要穴被制，一动都不能动了。\n" NOR;
         }
 }    
+
+// add empty implementation to avoid compiling time error.
+int do_flee()
+{
+    return 0;
+}
