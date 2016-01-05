@@ -3,12 +3,14 @@ inherit F_CLEAN_UP;
 int help(object me); 
 int main(object me, string arg)
 {
-        string file; 
-        seteuid(geteuid(me));
-    if (!arg) return help(me);
-        file = resolve_path(me->query("cwd"), arg);
-        if( file_size(file)<0 ) return notify_fail("没有这个档案。\n");
-        tail(file);
+    write("comment out by HL. fluffos don's implement tail function.\n");
+
+//        string file; 
+//        seteuid(geteuid(me));
+//    if (!arg) return help(me);
+//        file = resolve_path(me->query("cwd"), arg);
+//        if( file_size(file)<0 ) return notify_fail("没有这个档案。\n");
+//        tail(file);
         return 1;
 } 
 int help(object me)
