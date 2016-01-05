@@ -91,8 +91,10 @@ void release_stuff(){
 } 
 object animate(object who, int level) {
         object zombie;
-        string name;
-        int zskill;
+
+        // comment out by HL to avoid run-time warning
+        // string name;
+        // int zskill;
         
         if(!environment()) {
                 return 0;
