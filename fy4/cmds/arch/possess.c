@@ -7,8 +7,8 @@ int main(object me, string arg)
         ob = present(arg, environment(me));
         if( !ob || !living(ob))
                 return notify_fail("这里没有这个生物。\n");
-        if( geteuid(ob) != geteuid(me) )
-                return notify_fail( ob->name() + "的 euid 和你不合，无法进行附身。\n");
+//        if( geteuid(ob) != geteuid(me) )
+//                return notify_fail( ob->name() + "的 euid 和你不合，无法进行附身。\n");
         if( ob->query_temp("body_ob") )
                 return notify_fail( ob->name() + "已经被人附身过了。\n");
         message_vision("$N化成一道光芒钻进$n体内。\n", me, ob);
